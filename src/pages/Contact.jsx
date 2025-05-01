@@ -96,7 +96,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-dark-900 dark:text-white mb-1">Email</h3>
-                      <p className="text-gray-600 dark:text-gray-400">contact@crimewatchai.com</p>
+                      <p className="text-gray-600 dark:text-gray-400">dhiraj.pandit@adypu.edu.in</p>
                     </div>
                   </div>
                   
@@ -106,7 +106,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-dark-900 dark:text-white mb-1">Phone</h3>
-                      <p className="text-gray-600 dark:text-gray-400">+1 (800) 555-0123</p>
+                      <p className="text-gray-600 dark:text-gray-400">+91 84819 17044</p>
                     </div>
                   </div>
                   
@@ -117,9 +117,9 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold text-dark-900 dark:text-white mb-1">Office</h3>
                       <p className="text-gray-600 dark:text-gray-400">
-                        123 Tech Boulevard<br />
-                        San Francisco, CA 94107<br />
-                        United States
+                        ADYPU,<br />
+                        Lohegaon, Pune-412105<br />
+                        India
                       </p>
                     </div>
                   </div>
